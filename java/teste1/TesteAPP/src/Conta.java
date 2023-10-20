@@ -4,7 +4,9 @@ public class Conta {
     private int numero;
     private double saldo;
     private double juros;
+    private int codCli;
     String nome;
+    
     // Metodos de acesso get para "ler o conteudo dos atributos"
     public double getJuros(){
         return juros;
@@ -14,8 +16,8 @@ public class Conta {
     }
     public double getSaldo(){
         return saldo;
-        
     }
+    
     // Metodos de acesso set para "escrever o conteudo dos atributos"
     public void setJuros (double juros){
         this.juros = juros;
@@ -23,7 +25,7 @@ public class Conta {
     public void setNumero (int numero){
         this.numero = numero;
     }
-
+    
     // Metodos
     public void debito(double valor){
         this.saldo -= valor;
@@ -32,5 +34,4 @@ public class Conta {
     public void credito(double valor){
         this.saldo += valor;
     }
-
 }
