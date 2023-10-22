@@ -7,7 +7,6 @@ public class Aluno extends Pessoa {
     public String getEscolaridade() {
         return escolaridade;
     }
-
     public void setEscolaridade(String escolaridade) {
         this.escolaridade = escolaridade;
     }

@@ -2,7 +2,7 @@ package pkgheranca;
 
 public class Professor extends Pessoa{
     // Atributos
-    String titulacao;
+    private String titulacao;
 
     // Metodos
     public String getTitulacao() {
