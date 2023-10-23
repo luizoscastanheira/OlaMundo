@@ -1,5 +1,7 @@
 package pkgheranca;
 
+import javax.swing.JOptionPane;
+
 public class Aluno extends Pessoa {
     //Atributos
     String escolaridade;
@@ -10,4 +12,6 @@ public class Aluno extends Pessoa {
     public void setEscolaridade(String escolaridade) {
         this.escolaridade = escolaridade;
     }
+
+    
 }
