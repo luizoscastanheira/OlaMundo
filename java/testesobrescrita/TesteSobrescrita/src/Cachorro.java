@@ -5,5 +5,4 @@
         super(nome, idade);
         this.raca = raca;
     }
-    
 }
