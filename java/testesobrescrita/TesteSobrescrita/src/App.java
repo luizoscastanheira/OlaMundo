@@ -13,6 +13,9 @@ public class App {
         // Abaixo teste de herança em classes de animais
         System.out.println("Código para Teste de herança - classe Animal");
 
+        Ave canario = new Ave("Plumagem baixa", true);
+        System.out.println("O canário voa?" + canario.voa + "e tem a plumagem: " + canario.plumagem);
+
     }
 
 }
