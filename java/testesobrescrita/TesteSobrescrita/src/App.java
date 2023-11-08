@@ -16,6 +16,9 @@ public class App {
         Ave canario = new Ave("Plumagem baixa", true);
         System.out.println("O canário voa?" + canario.voa + "e tem a plumagem: " + canario.plumagem);
 
+        
+
+
     }
 
 }

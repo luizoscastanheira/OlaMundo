@@ -1,4 +1,4 @@
-public class Ave {
+public class Ave{
     String plumagem;
     boolean voa;
 

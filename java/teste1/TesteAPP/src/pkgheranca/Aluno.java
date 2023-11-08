@@ -13,5 +13,7 @@ public class Aluno extends Pessoa {
         this.escolaridade = escolaridade;
     }
 
-    
+    public static void imprimirNomeAluno(){
+        System.out.println("Eu sou um método estático. Fui invocado sem criar uma objeto, apenas usei o nome da classe Aluno onde estou.");
+    }
 }

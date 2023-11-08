@@ -46,7 +46,7 @@ public class App {
 
         pro1.setTitulacao("Doutor em tal");
         
-        
+        Aluno.imprimirNomeAluno();
 
     }
 }
