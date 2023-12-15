@@ -1,0 +1,15 @@
+/* TEXTO DE BOAS VINDAS */
+
+------------FRASE DA SORTE DO ANIVERSÁRIO------------
+
+SEJA BEM-VINDO!! LEIA A SORTE DO SEU ANIVERSÁRIO!!
+
+
+/* TEXTO P/ SOLICITAR DIA DO ANIVERSÁRIO */
+
+Informe o dia do seu aniversário:
+
+
+/* TEXTO EXIBIDO ANTES DAS FRASES DA SORTE */
+
+Sua Sorte:
